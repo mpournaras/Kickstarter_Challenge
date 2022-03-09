@@ -1,6 +1,3 @@
-# Kickstarter_Challenge
-This fodler contains resources and an analysis on the Kickstarter project
-
 # Kickstarter_Challenge Overview
 This project was to analyze how different Kickstarter play campaign's outcomes fared in relation to their launch dates and funding goals.
 
