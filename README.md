@@ -22,7 +22,7 @@ Looking at the Outcomes Based on Launch chart we can determine 2 things:
 
 Looking at the Play Outcomes Based on Goal chart we can determine one thing... we can determine that low budget plays under $5000, and medium budger plays between $35,000 and $45,000 are most successful.
 
-This dataset is limited based on the presence of a couple outliers, but with clever targets and filtering we were able to neutralize that data.
-I think a stacked bar chart may be more helpful for looking at funding goal outcomes. I have included it below. I think it better illustrates the successful nature of the budgets mentioned above.
+This parent dataset is limited based on the presence of a couple outliers, but with clever targets and filtering we were able to neutralize those issues.
+I think in this case a stacked bar chart may be more helpful for looking at funding goal outcomes. I have included it below. I think it better illustrates the successful nature of the budget ranges mentioned above.
 
 ![Play_Outcomes_based_on_Goals](https://github.com/mpournaras/Kickstarter_Challenge/blob/main/Resources/Outcomes_vs_Goals2.png)
